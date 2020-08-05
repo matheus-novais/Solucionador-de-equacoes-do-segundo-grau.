@@ -1,0 +1,27 @@
+body {
+    background: rgb(14, 131, 241);
+    font: normal 15pt Arial;
+    text-align: center;
+    font-family: 'Chilanka', cursive;
+}
+
+header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+section {
+    background: rgb(243, 233, 233);
+    border-radius: 20px;
+    padding: 15px;
+    width: 1000px;
+    margin: auto;
+    box-shadow: rgb(253, 248, 248) 3px 3px 10px;
+
+}
+
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
